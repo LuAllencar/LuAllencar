@@ -16,7 +16,8 @@ jobs:
       - name: Generate GitHub Snake SVG and GIF
         uses: Platane/snk/svg-only@v3
         with:
-          username: LuAllencar
+          github_user_name: LuAllencar
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
