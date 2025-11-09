@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=%F0%9F%90%8D+Python+%7C+%E2%98%95+Java+%7C+%F0%9F%8D%83+Spring+Boot;%F0%9F%A4%96+AI+%26+Automation+Enthusiast;%F0%9F%9A%80+Building+innovative+solutions)
 
-![Snake animation](https://raw.githubusercontent.com/LuAllencar/LuAllencar/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/LuAllencar/LuAllencar/main/dist/github-snake.gif)
 
 </div>
 
