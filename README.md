@@ -76,7 +76,7 @@ Sou estudante técnica em **Informática para Internet** na ETEC de Fernandópol
 ### 📈 Dashboard Agrícola (Power BI)
 Desenvolvimento de dashboard completo integrando dados de produtividade agrícola, análise de VANT e automação de processos com Excel e Power BI.
 
-**Tech Stack:** Power BI • Excel • AutoCAD • Python (automação)
+**Tech Stack:** Power BI • Excel • AutoCAD 
 
 ### 🎮 Jogo 3D Educativo (TCC)
 Criação de ambiente interativo 3D com dublagem e recursos multiplayer utilizando Unreal Engine e Blueprint.
@@ -86,7 +86,7 @@ Criação de ambiente interativo 3D com dublagem e recursos multiplayer utilizan
 ### 🤖 Robótica - FLL
 Projeto de inovação premiado (3º lugar) no torneio FIRST LEGO League, focado em soluções tecnológicas sustentáveis.
 
-**Tech Stack:** Robótica • Python • Engenharia
+**Tech Stack:** Robótica • Engenharia • Programação em Blocos
 
 ---
 
