@@ -2,7 +2,7 @@ name: GitHub Snake Animation
 
 on:
   schedule:
-    - cron: '0 0 * * *' # roda todo dia à meia-noite
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Install dependencies for GIF generation
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
 
       - name: Generate GitHub Snake GIF
         uses: Platane/snk/svg-only@v3
@@ -40,4 +45,3 @@ jobs:
             git add $README
             git commit -m "Add GitHub Snake GIF to README [skip ci]" || echo "No changes to commit"
             git push
-          fi
