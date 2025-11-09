@@ -14,10 +14,12 @@
 
 ## 🚀 Sobre Mim
 
-Sou estudante técnica em **Informática para Internet** na ETEC de Fernandópolis, com paixão por **backend**, **automação** e **inteligência artificial**. Atualmente, atuo como Jovem Aprendiz na Alcoeste Bioenergia, onde desenvolvo soluções de automação de planilhas e análise de dados para o setor agrícola.
+> *"Criando soluções que ainda nem sabíamos que precisávamos."*
+
+Sou estudante técnica em **Informática para Internet** na ETEC de Fernandópolis, com paixão por **backend**, **automação** e **inteligência artificial**. Durante minha jornada como Jovem Aprendiz desenvolvi soluções de automação de planilhas e análise de dados para o setor agrícola.
 
 🔭 Trabalhando em projetos de **automação**, **análise de dados** e **desenvolvimento de jogos 3D**  
-🌱 Aprendendo mais sobre **AWS**, **IA** e **robótica**  
+🌱 Aprendendo mais sobre **AWS**, **IA**, **robótica**, **APIs**, **Figma** e **desenvolvimento de jogos**  
 💡 Interesse especial em **backend development** e **integração de IA**  
 🎮 TCC em andamento: Jogo educativo 3D com Unreal Engine  
 🏆 3º lugar no FLL (FIRST LEGO League) - Projeto de Inovação
@@ -105,10 +107,10 @@ Projeto de inovação premiado (3º lugar) no torneio FIRST LEGO League, focado 
 **Jovem Aprendiz Administrativo** @ Alcoeste Bioenergia  
 *Abril/2024 - Agosto/2025*
 
-- Automação de processos com Python e Excel
+- Automação de processos com AutoLISP e Excel
 - Desenvolvimento de dashboards em Power BI
 - Criação de mapas agrícolas (AutoCAD e Google Earth)
-- Análise de dados de produtividade e gestão de operações aéreas
+- Análise de dados de produtividade e polígonos de operações aéreas
 
 ---
 
