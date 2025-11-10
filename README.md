@@ -4,6 +4,24 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=%F0%9F%90%8D+Python+%7C+%E2%98%95+Java+%7C+%F0%9F%8D%83+Spring+Boot;%F0%9F%A4%96+AI+%26+Automation+Enthusiast;%F0%9F%9A%80+Building+innovative+solutions)
 
+<div align="center" style="margin: 10px 0;">
+  
+![Status - Estudante Técnica](https://img.shields.io/badge/🎓%20Estudante%20Técnica-Informática%20para%20Internet-9D4EDD?style=for-the-badge&labelColor=171515)
+![Status - Disponível para Estágio](https://img.shields.io/badge/💼%20Disponível%20para%20Estágio-Atualmente-9D4EDD?style=for-the-badge&labelColor=171515)
+
+</div>
+
+---
+
+### 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luana-alencar-menezes-2a6045364)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luana.amenezes06@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuAllencar)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-9D4EDD?style=for-the-badge&logo=About.me&logoColor=white)](#)
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuAllencar/LuAllencar/output/github-contribution-grid-snake-dark.svg">
@@ -12,27 +30,14 @@
   </picture>
 </p>
 
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luana-alencar-menezes-2a6045364)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luana.amenezes06@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuAllencar)
-
 </div>
 
 ---
 
 ## 👩‍💻 Sobre Mim
 
-Sou estudante técnica em **Informática para Internet** na **ETEC de Fernandópolis**, com foco em **desenvolvimento backend**, **automação** e **inteligência artificial**.  
-Atuo em soluções que combinam **dados, código e automação** para melhorar processos — especialmente na área **agrícola**.
-
-Durante minha trajetória, desenvolvi automações em planilhas, dashboards interativos e análises de dados que facilitaram rotinas corporativas.
+Sou estudante técnica em **Informática para Internet** pela **ETEC de Fernandópolis**, com foco em **desenvolvimento backend**, **automação** e **inteligência artificial**.  
+Busco sempre aprender novas tecnologias e aplicar na prática, criando soluções que unem **código** e **inovação**.
 
 🎯 **Interesses:** Backend • Automação • IA Aplicada  
 🌱 **Aprendendo:** AWS • APIs • Unreal Engine • UI/UX  
@@ -41,22 +46,11 @@ Durante minha trajetória, desenvolvi automações em planilhas, dashboards inte
 
 ---
 
-## 🛠️ Competências Técnicas
-
-**Linguagens:** Python • Java • JavaScript • SQL  
-**Frontend:** HTML5 • CSS3  
-**Ferramentas:** Power BI • Git • VS Code • Excel • AutoCAD  
-**Design:** Canva • Photoshop • Illustrator  
-**Sistemas:** Linux • Windows • AWS  
-
----
-
 ## 🚀 Projetos em Destaque
 
 ### 💻 API RESTful *(em desenvolvimento)*
 API backend para gerenciamento de dados e integração com SQL, aplicando princípios de arquitetura limpa e autenticação JWT.  
 📦 **Stack:** Python / Java • SQL • REST API  
-📅 *(Protótipo inicial em construção)*  
 
 ---
 
@@ -72,9 +66,28 @@ Jogo educativo 3D imersivo com dublagem e multiplayer, desenvolvido com **Unreal
 
 ---
 
-### 🤖 Robótica – FIRST LEGO League
-Projeto premiado na FLL com proposta de solução sustentável e uso de automação e robótica.  
-⚙️ **Stack:** Robótica • Programação em Blocos  
+## 🛠️ Tecnologias & Ferramentas
+
+**Linguagens:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Ferramentas:**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
+
+**Design:**  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
 
@@ -83,22 +96,21 @@ Projeto premiado na FLL com proposta de solução sustentável e uso de automaç
 **Jovem Aprendiz Administrativo** @ *Alcoeste Bioenergia*  
 📅 *Abril/2024 – Agosto/2025*  
 
-- Automação de rotinas com planilhas inteligentes e scripts.  
-- Criação de dashboards em **Power BI** para relatórios de performance agrícola.  
-- Elaboração de **mapas agrícolas** (AutoCAD e Google Earth) para planejamento de colheitas.  
-- Apoio técnico na organização de polígonos de aplicação aérea para drones e aviões.  
+- Automatização de rotinas administrativas com planilhas e scripts.  
+- Criação de dashboards **Power BI** para relatórios agrícolas.  
+- Elaboração de **mapas agrícolas (AutoCAD e Google Earth)**.  
+- Suporte técnico na organização de polígonos de aplicação aérea.  
 
 ---
 
-## 🎓 Certificações
+## 📜 Certificações
 
-- **Cyber Leader Microsoft** – Liderança em Segurança Digital  
-- **Introdução à Ciência da Computação com Python (USP)**  
-- **Fundamentos de Inteligência Artificial**  
-- **IA para Pequenas e Médias Empresas (Microsoft)**  
-- **Desenvolvimento Web Completo (HTML, CSS, JS)**  
-- **Git e GitHub para Controle de Versão**  
-- **Webinar AgroCAD**
+🎓 **Cyber Leader Microsoft** – Liderança em Segurança Digital  
+🐍 **Introdução à Ciência da Computação com Python (USP)**  
+☁️ **IA para Pequenas e Médias Empresas (Microsoft)**  
+🌐 **Desenvolvimento Web Completo (HTML, CSS, JS)**  
+🧠 **Fundamentos de Inteligência Artificial**  
+🛰️ **Webinar AgroCAD**
 
 ---
 
@@ -106,19 +118,11 @@ Projeto premiado na FLL com proposta de solução sustentável e uso de automaç
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LuAllencar&show_icons=true&theme=transparent&hide_border=true&text_color=ffffff&icon_color=9D4EDD&title_color=9D4EDD)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuAllencar&layout=compact&theme=transparent&hide_border=true&text_color=ffffff&title_color=9D4EDD)
+![Stats](https://github-readme-stats.vercel.app/api?username=LuAllencar&show_icons=true&theme=transparent&hide_border=true&text_color=ffffff&icon_color=9D4EDD&title_color=9D4EDD)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuAllencar&layout=compact&theme=transparent&hide_border=true&text_color=ffffff&title_color=9D4EDD)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuAllencar&theme=transparent&hide_border=true&ring=9D4EDD&fire=9D4EDD&currStreakLabel=ffffff)
 
 </div>
-
----
-
-## 📫 Contato
-
-📧 **Email:** [luana.amenezes06@gmail.com](mailto:luana.amenezes06@gmail.com)  
-💼 **LinkedIn:** [Luana Alencar Menezes](https://linkedin.com/in/luana-alencar-menezes-2a6045364)  
-📍 **Localização:** Fernandópolis – SP  
 
 ---
 
@@ -126,6 +130,6 @@ Projeto premiado na FLL com proposta de solução sustentável e uso de automaç
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LuAllencar&color=9D4EDD&style=flat-square&label=Visualizações+do+Perfil)
 
-### 💜 *"Tecnologia é sobre transformar ideias em impacto real."*
+### 💜 *“Tecnologia é transformar ideias em impacto real.”*
 
 </div>
